@@ -21,6 +21,11 @@ namespace semana2_Primer_formulario
         {
             label1.Text = "Gustavo Cerna";
             label2.Text = "Monica Campos";
+            label3.Text = "Lorena Rodriguez";
+            label4.Text = "Ivania Matas";
+            label5.Text = "Fredy Campos";
+            label6.Text = "Cristian Herrera";
+       
 
         }
     }
