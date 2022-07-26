@@ -16,5 +16,10 @@ namespace semana2_Primer_formulario
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
