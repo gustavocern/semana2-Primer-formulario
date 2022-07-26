@@ -19,6 +19,8 @@ namespace semana2_Primer_formulario
 
         private void button1_Click(object sender, EventArgs e)
         {
+            label1.Text = "Gustavo Cerna";
+            label2.Text = "Monica Campos";
 
         }
     }
