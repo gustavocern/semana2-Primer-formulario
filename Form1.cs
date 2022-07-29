@@ -28,5 +28,25 @@ namespace semana2_Primer_formulario
        
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = " ";
+            label2.Text = " ";
+            label3.Text = " ";
+            label4.Text = " ";
+            label5.Text = " ";
+            label6.Text = " ";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
